@@ -1,0 +1,10 @@
+[
+  {
+    "package": "nmarank",
+    "oncran": true
+  },
+  {
+    "package": "predieval",
+    "oncran": true
+  }
+]
